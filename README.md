@@ -1,4 +1,4 @@
-## Iris Classification Model 🌸  
+## Iris Classification Model.
 
 This project is a **machine learning model** that classifies iris flowers into three species: **Setosa, Versicolor, and Virginica** using the **Iris dataset**.  
 
