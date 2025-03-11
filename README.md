@@ -42,4 +42,4 @@ Target classes: **Setosa (0), Versicolor (1), Virginica (2)**
 - Scikit-learn  
 
 ### Results
-Accuracy: 
+Accuracy: 97.368421%
