@@ -40,3 +40,6 @@ Target classes: **Setosa (0), Versicolor (1), Virginica (2)**
 - NumPy  
 - Pandas  
 - Scikit-learn  
+
+### Results
+Accuracy: 
