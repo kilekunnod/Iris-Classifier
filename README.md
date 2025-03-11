@@ -35,9 +35,8 @@ The dataset contains **150 samples**, each with **4 features**:
 
 Target classes: **Setosa (0), Versicolor (1), Virginica (2)**  
 
-### 🛠️ Dependencies  
-- Python 3.10+  
+### 🛠️ Technologies used  
+- Python
 - NumPy  
 - Pandas  
-- Matplotlib  
 - Scikit-learn  
